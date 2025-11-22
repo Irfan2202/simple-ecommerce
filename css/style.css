@@ -1,13 +1,12 @@
-section {
-  padding: 100px 0;
-}
-
-.navbar ul li {
-  margin: 0 25px;
+a {
+  text-decoration: none;
 }
 .carousel {
   background: linear-gradient(90deg, #f0f0f0 0%, #999999 100%);
 }
 .carousel-item {
   transition: opacity 1.5s ease-in-out;
+}
+.new-product {
+  background: linear-gradient(90deg, #999999 0%, #f0f0f0 100%);
 }
