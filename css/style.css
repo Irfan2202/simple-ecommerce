@@ -1,0 +1,13 @@
+section {
+  padding: 100px 0;
+}
+
+.navbar ul li {
+  margin: 0 25px;
+}
+.carousel {
+  background: linear-gradient(90deg, #f0f0f0 0%, #999999 100%);
+}
+.carousel-item {
+  transition: opacity 1.5s ease-in-out;
+}
