@@ -10,3 +10,9 @@ a {
 .new-product {
   background: linear-gradient(90deg, #999999 0%, #f0f0f0 100%);
 }
+
+@media (max-width: 600px) {
+  .new-product .btn {
+    font-size: 12px;
+  }
+}
